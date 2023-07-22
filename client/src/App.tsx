@@ -1,16 +1,4 @@
-import {
-  BusyIndicator,
-  Button,
-  FlexBox,
-  FlexBoxAlignItems,
-  FlexBoxDirection,
-  FlexBoxJustifyContent,
-  Icon,
-  IconDesign,
-  InputPropTypes,
-  MessageStrip,
-  RatingIndicator,
-} from "@ui5/webcomponents-react";
+import { InputPropTypes } from "@ui5/webcomponents-react";
 import {
   Footer,
   Header,
